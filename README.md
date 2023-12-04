@@ -4,5 +4,6 @@
 
 ```
 point.js: 打点功能
-![Image Alt Text](./src/public/point.png)
 ```
+
+![Image Alt Text](./src/public/point.png)
